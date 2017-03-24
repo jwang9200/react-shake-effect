@@ -9,7 +9,7 @@ Shake is a React component that applies a linear or axial oscillation effect to 
   * Supports dampening and time clipping
 
 ### Learn more
-See the demo at [http://www.uismithing.com/main/shake](http://www.uismithing.com/main/shake).
+See the demo at [http://www.uismithing.com/main/wares/shake](http://www.uismithing.com/main/wares/shake).
 
 ### Repository
 [https://github.com/uismithing/react-shake-effect](https://github.com/uismithing/react-shake-effect)
